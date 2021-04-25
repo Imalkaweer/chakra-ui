@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.7.0
+
+### Minor Changes
+
+- [`8501fd105`](https://github.com/chakra-ui/chakra-ui/commit/8501fd105b50ebc61f53026688f8f63ad1e64173)
+  [#3906](https://github.com/chakra-ui/chakra-ui/pull/3906) Thanks
+  [@joaorodrs](https://github.com/joaorodrs)! - Add an export for
+  `usePopoverContext` hook
+
 ## 1.6.1
 
 ### Patch Changes

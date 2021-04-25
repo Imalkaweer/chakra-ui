@@ -1,6 +1,6 @@
 {
   "name": "@chakra-ui/react",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Responsive and accessible React UI components built with React and Emotion",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -57,7 +57,7 @@
     "@chakra-ui/modal": "1.8.4",
     "@chakra-ui/number-input": "1.2.4",
     "@chakra-ui/pin-input": "1.6.0",
-    "@chakra-ui/popover": "1.6.1",
+    "@chakra-ui/popover": "1.7.0",
     "@chakra-ui/popper": "2.1.2",
     "@chakra-ui/portal": "1.2.4",
     "@chakra-ui/progress": "1.1.8",
